@@ -52,9 +52,14 @@ blockquote {
   box-shadow: 0 0 10px 0;
 }
 
+.homepage h2 {
+  font-size: 2em;
+  color: #ff8000;
+}
+
 #main h2 {
   font-size: 2em;
-  color:#ff8000;
+  color: #ff8000;
 }
 
 .result {
@@ -103,7 +108,7 @@ button:hover {
 
 .app {
   padding: 10% 10% 5% 10%;
-  background-color: #f8f8f8;
+  background-color: #cfd5e3;
   width: 100vw;
   height: 100vh;
 }
@@ -152,12 +157,7 @@ button:hover {
 
 .homepage {
   display: flex;
-  flex-direction: column;;
+  flex-direction: column;
   gap: 3em;
   margin-top: 10%;
-}
-
-.homepage h2 {
-  font-size: 2em;
-  color: #ff8000;
 }
