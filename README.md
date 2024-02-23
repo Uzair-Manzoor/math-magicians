@@ -48,7 +48,9 @@ Visual Studia Code, React.js, HTML/JavaScript linters and ES6.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](Coming Soon)
+- [Live Demo Link](https://math-magicians-ir68txw5n-uzair-manzoor.vercel.app/)
+  
+  ![image](https://github.com/Uzair-Manzoor/math-magicians/blob/develop/src/MathMagicians.png?raw=true)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
